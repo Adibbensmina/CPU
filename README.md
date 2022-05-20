@@ -22,3 +22,14 @@ please enter between 5 and 10 the number of processes.<br />
 
 # RR (Round Robin)
 ![RR](https://user-images.githubusercontent.com/96313979/169569699-056bbdb1-d3c2-4142-b1ce-b93ad73b0c25.png) <br />
+
+# SRT (Shortest Remaining Time)
+![srtf](https://user-images.githubusercontent.com/96313979/169570745-bad8cefd-9b85-468c-8941-a59cfd3c3416.png)<br />
+
+# SJF (Shortest Job First)
+![sjf](https://user-images.githubusercontent.com/96313979/169570775-77ab1d34-93d4-4f1c-94be-774e3ec29bc3.png)<br />
+
+# priority algorithm
+![priorite](https://user-images.githubusercontent.com/96313979/169570788-82932c51-3b08-499d-91f7-0bc0cec08b65.png)
+
+
