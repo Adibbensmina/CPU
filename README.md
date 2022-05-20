@@ -7,6 +7,6 @@
 .Shortest- Remaining Time First (SRTF) Scheduling using context switching.
 .Non-preemptive Priority Scheduling (SJF).
 .Round Robin (RR).
-.CPU algorithm that schedules processes based on priority.
+.CPU algorithm that schedules processes based on priority..
 
 
